@@ -1,6 +1,6 @@
 ## Dataset for EdgeShield
 
-This dataset consists of benign jobs and four types of attack jobs (SINUS, EXPO, POISS and GAMMA). 
+This dataset consists of benign jobs and four types of attack jobs (SINUS, EXPO, POISS and PW). 
 
 All benign and attack jobs are generated based on resource usages/requirements obtained from the widely-used Alibaba Cluster Trace Program (https://github.com/alibaba/clusterdata).
 
